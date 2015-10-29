@@ -36,7 +36,8 @@
         <menu>
             <item
                 android:id="@+id/nav_debug"
-                android:title="Debug screen"/>
+                android:title="Debug screen"
+                android:icon="@drawable/ic_tune_white_36dp"/>
         </menu>
     </item>
 

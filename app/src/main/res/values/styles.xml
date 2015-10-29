@@ -13,5 +13,9 @@
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
-
+    <declare-styleable name="TypefaceTextView">
+        <attr name="font" format="enum">
+            <enum name="material_icons" value="0"/>
+        </attr>
+    </declare-styleable>
 </resources>
